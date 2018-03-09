@@ -1,0 +1,11 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "socket.io chat example",
+  "dependencies": {
+    "@types/node": "^9.4.7",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4",
+    "typescript": "^2.7.2"
+  }
+}

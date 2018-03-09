@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "esnext",
+    "lib": ["es2015", "es2017", "dom"],
+    "inlineSource": true,
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "watch": false,
+    "typeRoots": [
+      "./node_modules/@types/"
+    ]
+  },
+  "exclude": ["node_modules"]
+}
